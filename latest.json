@@ -1,6 +1,6 @@
 {
-  "version": "2.0.1",
-  "notes": "• Affichage des photos de fleurs corrigé (catalogue)\n• L'écran reste allumé pendant la respiration SOS\n• Mises à jour automatiques activées\n• Corrections et améliorations",
+  "version": "2.1.0",
+  "notes": "• Nouveau : Mon jardin — vos fleurs poussent et éclosent à chaque prise\n• Nouveau : suivi du flacon (photo, contenance, barre de stock + alerte de renouvellement)\n• Corrections et améliorations",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.bengacoon.flowercoon",
   "urlIOS": "https://apps.apple.com/app/idXXXXXXXXX",
   "minVersion": "1.0.0"
