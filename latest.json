@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "notes": "• Modifier une prise déjà notée (doses, humeur, ressenti, date)\n• Modifier vos notes de journal\n• Rallonge automatique de la cure quand une prise est ratée\n• Corrections et améliorations",
+  "version": "2.3.0",
+  "notes": "• Cure en pause (voyage, oubli) : rappels suspendus, reprise quand vous voulez\n• Toutes les saisies sont modifiables (prises, notes)\n• Rallonge automatique de la cure quand une prise est manquée\n• Corrections et améliorations",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.bengacoon.flowercoon",
   "urlIOS": "https://apps.apple.com/app/idXXXXXXXXX",
   "minVersion": "1.0.0"
