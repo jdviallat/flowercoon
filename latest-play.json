@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
-  "notes": "• Analyser un mélange (2-4 fleurs → synthèse)\\n• Ordonnance PDF (mode thérapeute)\\n• Historique des versions repliable\\n• Corrections",
+  "version": "2.5.1",
+  "notes": "• Fiches de mélanges (20 combinaisons, rôle de chaque fleur, synergie) — 9 langues\n• Détection auto + rôles/redondances dans l'analyseur\n• Export PDF d'une fiche de mélange\n• Correctif d'alignement de version",
   "urlAndroid": "https://play.google.com/store/apps/details?id=com.bengacoon.flowercoon",
   "urlIOS": "https://apps.apple.com/app/idXXXXXXXXX",
   "minVersion": "1.0.0"
