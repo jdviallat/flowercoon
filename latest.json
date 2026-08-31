@@ -1,6 +1,6 @@
 {
-  "version": "2.5.1",
-  "notes": "• Fiches de mélanges (20 combinaisons, rôle de chaque fleur, synergie) — 9 langues\n• Détection auto + rôles/redondances dans l'analyseur\n• Export PDF d'une fiche de mélange\n• Correctif d'alignement de version",
+  "version": "2.5.2",
+  "notes": "• Données protégées (sauvegarde de secours auto, aucune perte en MAJ)\n• Licence conservée et re-validée à chaque lancement\n• Fiches : associations + « à ne pas confondre »\n• Mes mélanges perso",
   "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/latest/download/Flowercoon.apk",
   "minVersion": "1.0.0"
 }
