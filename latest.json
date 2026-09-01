@@ -1,6 +1,6 @@
 {
-  "version": "2.7.0",
-  "notes": "• Fiches de fleurs dans les 9 langues\n• +10 Élixirs du monde (63 fleurs)\n• Partage d'une fleur en image",
-  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.7.0/Flowercoon-2.7.0.apk",
+  "version": "2.8.0",
+  "notes": "• Fleur du jour (notification quotidienne)\n• Partage d'un mélange en image\n• App 100% en 9 langues",
+  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.8.0/Flowercoon-2.8.0.apk",
   "minVersion": "1.0.0"
 }
