@@ -1,6 +1,6 @@
 {
-  "version": "2.5.2",
-  "notes": "• Données protégées (sauvegarde de secours auto, aucune perte en MAJ)\n• Licence conservée et re-validée à chaque lancement\n• Fiches : associations + « à ne pas confondre »\n• Mes mélanges perso",
+  "version": "2.6.0",
+  "notes": "• Roue des émotions\n• Quiz d'apprentissage des fleurs\n• Agenda de séances (thérapeute)\n• Rappel de bilan en fin de cure\n• Données & licence conservées automatiquement",
   "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/latest/download/Flowercoon.apk",
   "minVersion": "1.0.0"
 }
