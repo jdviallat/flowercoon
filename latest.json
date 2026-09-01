@@ -1,6 +1,6 @@
 {
-  "version": "2.6.1",
-  "notes": "• Guide d'utilisation intégré (hors-ligne)\n• Mises à jour plus claires : fichier versionné + données & licence conservées",
-  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.6.1/Flowercoon-2.6.1.apk",
+  "version": "2.7.0",
+  "notes": "• Fiches de fleurs dans les 9 langues\n• +10 Élixirs du monde (63 fleurs)\n• Partage d'une fleur en image",
+  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.7.0/Flowercoon-2.7.0.apk",
   "minVersion": "1.0.0"
 }
