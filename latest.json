@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "notes": "• Roue des émotions\n• Quiz d'apprentissage des fleurs\n• Agenda de séances (thérapeute)\n• Rappel de bilan en fin de cure\n• Données & licence conservées automatiquement",
-  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.6.0/Flowercoon-2.6.0.apk",
+  "version": "2.6.1",
+  "notes": "• Guide d'utilisation intégré (hors-ligne)\n• Mises à jour plus claires : fichier versionné + données & licence conservées",
+  "urlAndroid": "https://github.com/jdviallat/flowercoon/releases/download/v2.6.1/Flowercoon-2.6.1.apk",
   "minVersion": "1.0.0"
 }
